@@ -1,0 +1,131 @@
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%) ;
+    border: 5px;
+    margin: 20px 20px 20px 20px; 
+}
+h3 {
+    color: antiquewhite;
+    padding-bottom: 25px;
+}
+form {
+    color: antiquewhite;
+    padding-bottom: 25px;
+
+}
+section {
+    color: antiquewhite;
+    margin: 0px 0px 10px 10px;
+}
+h2 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 90px;
+    display:  flex;
+    justify-content: center;
+}
+a {
+    color: antiquewhite;
+    text-decoration: none;
+    color: aqua;
+}
+.picture {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+    display: inline block;
+ 
+}
+
+.overview {
+    color: antiquewhite;
+    margin: 0px 0px 0px 0px;
+    border: 20px 0px 40px 0px;
+    
+}
+ button:hover {
+outline: none;
+color: black;
+background: blueviolet;
+}
+
+table{
+    padding-bottom: 25px;
+    border-radius: 25px;
+}
+ol {
+    padding-bottom: 25px;
+    border: 10px 10px 10px 10px;
+}
+ul {
+    padding-bottom: 25px;
+    border: 10px 10px 10px 10px;
+}
+.email:hover {
+    color: black;
+}
+.link:hover {
+    color: black;
+}
+p {
+    /* border: 1px;
+    margin: 10px;
+    padding: 10px 0px 25px 0px; */
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    line-height: 100px;
+    /* display:  flex;
+    justify-content: end; */
+}
+* {
+    font-size: 20px;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background: white;
+    color: black;
+
+}
+.placeholder {
+    color: black;
+}
+td {
+    padding: 10px;
+    border: 1px;
+    margin: 10px;
+    padding: 10px 0px 25px 0px;
+}
+li {
+    padding: 10px;
+    border: 1px;
+    margin: 10px;
+    padding: 10px 0px 25px 0px;
+}
+input {
+    padding: 10px;
+    border: 1px;
+    margin: 10px;
+    padding: 10px 0px 25px 0px;
+}
+label {
+    padding: 10px;
+    border: 1px;
+    margin: 10px;
+    padding: 10px 0px 25px 0px;
+    line-height: 100px;
+} 
+.emailandphone {
+display:  flex;
+justify-content: end;
+}
+.contactme {
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
